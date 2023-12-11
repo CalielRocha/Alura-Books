@@ -51,6 +51,7 @@
 .lista-menu__link {
     color: var(--azul-degrade);
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .container__botao {
